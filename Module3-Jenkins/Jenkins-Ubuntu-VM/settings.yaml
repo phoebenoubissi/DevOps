@@ -2,7 +2,7 @@
 
 software:
   box: bento/ubuntu-20.04
-  boot_timeout : 300
+  boot_timeout : 600
 
 nodes:
   ip1 : 172.17.8.163

@@ -5,7 +5,7 @@ software:
   boot_timeout : 1000
 
 node1:
-  ip : 172.17.8.104
+  ip : 172.17.8.103
   cpu : 2
   memory : 2024
 
